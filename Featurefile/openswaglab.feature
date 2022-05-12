@@ -1,4 +1,4 @@
-Feature: This feature file is login to Application
+Feature: This feature file is login to SwagLab Application
 Scenario: The is is login scenario
   Given user is on login page
   When the user enters the valid user name and password
